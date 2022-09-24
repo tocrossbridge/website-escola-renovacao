@@ -7,6 +7,9 @@
 .testimony__bg{
     background-color: #00815E;
 }
+.testimony__avatar{
+    max-width: 150px;
+}
 
 /* Quote */
 .quote__bg{

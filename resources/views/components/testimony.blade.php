@@ -9,9 +9,9 @@
         </h3>
 
         <div class="row">
-            <div class="col-12 col-md-6 d-flex">
-                <div>
-                    img
+            <div class="d-flex py-4 col-12 col-md-6">
+                <div class="mr-3">
+                    <img class="testimony__avatar" src="{{ asset('images/avatar.png') }}" alt="">
                 </div>
                 <div>
                     <p>Ana Maria</p>
@@ -22,9 +22,9 @@
                     </p>
                 </div>
             </div>
-            <div class="col-12 col-md-6 d-flex">
-                <div>
-                    img
+            <div class="d-flex py-4 col-12 col-md-6">
+                <div class="mr-3">
+                    <img class="testimony__avatar" src="{{ asset('images/avatar.png') }}" alt="">
                 </div>
                 <div>
                     <p>Ana Maria</p>
@@ -35,9 +35,9 @@
                     </p>
                 </div>
             </div>
-            <div class="col-12 col-md-6 d-flex">
-                <div>
-                    img
+            <div class="d-flex py-4 col-12 col-md-6">
+                <div class="mr-3">
+                    <img class="testimony__avatar" src="{{ asset('images/avatar.png') }}" alt="">
                 </div>
                 <div>
                     <p>Ana Maria</p>
@@ -48,9 +48,9 @@
                     </p>
                 </div>
             </div>
-            <div class="col-12 col-md-6 d-flex">
-                <div>
-                    img
+            <div class="d-flex py-4 col-12 col-md-6">
+                <div class="mr-3">
+                    <img class="testimony__avatar" src="{{ asset('images/avatar.png') }}" alt="">
                 </div>
                 <div>
                     <p>Ana Maria</p>
