@@ -56,4 +56,4 @@
       </footer>
     </div>
 </div>
-<div class="text-muted py-2" style="background: #001233; text-align:center;color:white;">Desenvolvido por Alca</div>
+<div class="py-2 text-center text-muted" style="background: #001233; color:white;">Desenvolvido por Alca</div>

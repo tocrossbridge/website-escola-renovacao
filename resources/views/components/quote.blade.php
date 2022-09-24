@@ -1,11 +1,11 @@
 <div class="quote__bg d-flex align-items-center">
     <div class="container">
-        <div>
+        <div class="col-12 col-md-6 col-lg-4">
             <h3>
                 “Para cada 1 dólar
-                <br>
+                <!-- <br> -->
                 investido em uma criança,
-                <br>
+                <!-- <br> -->
                 a sociedade ganhará 9”
             </h3>
             <small>
@@ -14,7 +14,7 @@
                 ganhador do prêmio Nobel de Economia do ano 2000
             </small>
             <br>
-            <button class="btn mt-4">Matricule-se já!</button>
+            <button class="btn mt-4 w-100">Matricule-se já!</button>
         </div>
     </div>
 </div>
