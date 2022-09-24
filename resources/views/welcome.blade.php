@@ -3,7 +3,6 @@
 @section('title', 'Home')
  
 @section('content')
-video
 <x-intro />
 <x-about-us />
 <x-address-galery />
