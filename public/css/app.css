@@ -1,3 +1,22 @@
+/* Navbar */
+
+/* Intro */
+.intro__bg{
+    height: 100vh;
+    background-color: #FF5B00;
+    color: #ffffff;
+}
+.intro__icon{
+    width: 200px;
+    height: auto;
+}
+
+/* About us */
+
+/* Renovação KIDS */
+
+/* Escola Renovação */
+
 /* Enrollment */
 .enrollment__img{
     width: -webkit-fill-available;
