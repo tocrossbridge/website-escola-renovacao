@@ -1,0 +1,6 @@
+.quote__bg{
+    min-height: 500px;
+    background-image: url('../images/quote.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
