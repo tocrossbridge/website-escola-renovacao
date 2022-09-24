@@ -1,8 +1,13 @@
+/* Enrollment */
+.enrollment__img{
+    width: -webkit-fill-available;
+}
 
 /* Testimony */
 .testimony__bg{
     background-color: #00815E;
 }
+
 /* Quote */
 .quote__bg{
     min-height: 500px;
@@ -11,3 +16,5 @@
     background-repeat: no-repeat;
     background-position: center;
 }
+
+/* Footer */

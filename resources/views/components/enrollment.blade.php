@@ -1,4 +1,3 @@
 <div>
-    <!-- Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. - Marie Curie -->
-    enrollment
+    <img class="enrollment__img" src="{{ asset('images/outdoor.png') }}" alt="Não prenda sua águia">
 </div>
