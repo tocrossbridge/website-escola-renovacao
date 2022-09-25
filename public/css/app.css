@@ -14,6 +14,14 @@
     background-color: #ff8746;
     color: #ffffff;
 }
+.btn__green{
+    background-color: #038300;
+    color: #ffffff;
+}
+.btn__green:hover{
+    background-color: #1dbb1a;
+    color: #ffffff;
+}
 
 /* Navbar */
 
@@ -37,6 +45,11 @@
 /* Renovação KIDS */
 
 /* Escola Renovação */
+.escola-renovacao__bg{
+    height: 90vh;
+    background-color: #FF5B00;
+    color: #ffffff;
+}
 
 /* Galeria de fotos */
 .photo-gallery__bg{
@@ -77,6 +90,12 @@
         background-image: url('../images/intro-harpia.png');
         background-repeat: no-repeat;
         background-position: left;
+    }
+    .escola-renovacao__bg{
+        background-image: url('../images/teenager.png');
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: contain;
     }
     .flex-direction__desktop{
         flex-direction: row-reverse;
