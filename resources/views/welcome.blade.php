@@ -8,6 +8,6 @@
 <x-address-galery />
 <x-photo-gallery />
 <x-enrollment />
-<x-testimony />
+<x-testimony.index />
 <x-quote />
 @stop
