@@ -42,7 +42,10 @@ return [
     'quote__small' => 'James Heckman, economista americano<br>ganhador do prêmio Nobel de Economia do ano 2000',
 
     // General
+    'renovacao-school' => 'Escola Renovação',
+    'renovacao-kids' => 'Renovação KIDS',
     'enroll-now' => 'Matricule-se já!',
     'secure-your-spot' => 'Garanta sua vaga!',
+    'contact-whatsapp' => 'Chamar no WhatsApp!'
 
 ];
