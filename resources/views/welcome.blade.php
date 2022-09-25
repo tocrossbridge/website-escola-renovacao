@@ -5,7 +5,7 @@
 @section('content')
 <x-intro />
 <x-about-us />
-<x-address-galery />
+<x-escola-renovacao />
 <x-photo-gallery />
 <x-enrollment />
 <x-testimony.index />
