@@ -1,3 +1,15 @@
+
+
+/* General */
+.btn__orange{
+    background-color: #FF5B00;
+    color: #ffffff;
+}
+.btn__orange:hover{
+    background-color: #ff8746;
+    color: #ffffff;
+}
+
 /* Navbar */
 
 /* Intro */
@@ -12,10 +24,19 @@
 }
 
 /* About us */
+.about-us__bg{
+    background-color: #0042BC;
+    color: #ffffff;
+}
 
 /* Renovação KIDS */
 
 /* Escola Renovação */
+/* Galeria de fotos */
+.photo-gallery__bg{
+    background-color: #FF5B00;
+    color: #ffffff;
+}
 
 /* Enrollment */
 .enrollment__img{
