@@ -1,6 +1,11 @@
 
 
 /* General */
+.mx--150{ max-width: 150px; }
+.border--white{
+    border: 1px solid white;
+    border-radius: 12px;
+}
 .btn__orange{
     background-color: #FF5B00;
     color: #ffffff;
