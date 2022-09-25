@@ -4,7 +4,7 @@ namespace App\View\Components;
 
 use Illuminate\View\Component;
 
-class PhotoGalery extends Component
+class PhotoGallery extends Component
 {
     /**
      * Create a new component instance.
@@ -23,6 +23,6 @@ class PhotoGalery extends Component
      */
     public function render()
     {
-        return view('components.photo-galery');
+        return view('components.photo-gallery');
     }
 }
