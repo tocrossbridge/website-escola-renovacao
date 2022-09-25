@@ -68,6 +68,10 @@
 /* Testimony */
 .testimony__bg{
     background-color: #00815E;
+    background-image: url('../images/testimony-bg.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .testimony__avatar{
     max-width: 150px;

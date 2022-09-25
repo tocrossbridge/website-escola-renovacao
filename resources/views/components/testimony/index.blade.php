@@ -1,4 +1,4 @@
-<div class="testimony__bg">
+<div class="testimony__bg py-5">
     <div class="container py-5">
         <x-common.title class="text-center pb-5" title="Buscamos fortalecer laços de amizade,<br>construindo uma comunidade de valor!"/>
         <div class="row">
