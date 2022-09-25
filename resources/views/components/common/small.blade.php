@@ -1,0 +1,1 @@
+<small>{!! __($text) !!}</small>
