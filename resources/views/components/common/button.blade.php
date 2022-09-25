@@ -1,0 +1,1 @@
+<button {{ $attributes->merge(["class"=>"btn mt-4 "]) }}>{!! __($text) !!}</button>
