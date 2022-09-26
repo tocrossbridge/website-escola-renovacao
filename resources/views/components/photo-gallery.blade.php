@@ -1,4 +1,4 @@
-<div id="institucional" class="photo-gallery__bg py-5">
+<div id="institucional" class="photo-gallery__bg pt-5 pb-2">
     <div class="container">
         <div class="row">
             <div class="col-12 col-md-auto">
@@ -9,7 +9,7 @@
             </div>
         </div>
 
-        <div class="row bg--transparent py-2 my-4">
+        <div class="row bg--transparent py-2">
             <div class="col-12 col-md-6 my-auto">
                 <img id="expandedImg" style="width:100%">
                 <div id="imgtext"></div>
