@@ -2,16 +2,28 @@
     <div class="p-0 col-12 col-md-6">
         <div class="responsive-renovacao custom-slider">
             <div>
-                <img class="carousel-fotos" src="/images/escola/01.jpg" alt="">
+                <img class="carousel-fotos" src="/images/escola/01.png" alt="">
             </div>
             <div>
-                <img class="carousel-fotos" src="/images/escola/02.jpg" alt="">
+                <img class="carousel-fotos" src="/images/escola/02.png" alt="">
             </div>
             <div>
-                <img class="carousel-fotos" src="/images/escola/03.jpg" alt="">
+                <img class="carousel-fotos" src="/images/escola/03.png" alt="">
             </div>
             <div>
-                <img class="carousel-fotos" src="/images/escola/04.jpg" alt="">
+                <img class="carousel-fotos" src="/images/escola/04.png" alt="">
+            </div>
+            <div>
+                <img class="carousel-fotos" src="/images/escola/05.png" alt="">
+            </div>
+            <div>
+                <img class="carousel-fotos" src="/images/escola/06.png" alt="">
+            </div>
+            <div>
+                <img class="carousel-fotos" src="/images/escola/07.png" alt="">
+            </div>
+            <div>
+                <img class="carousel-fotos" src="/images/escola/08.png" alt="">
             </div>
         </div>
     </div>
