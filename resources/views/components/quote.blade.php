@@ -4,7 +4,9 @@
             <x-common.title title="landing-page.quote__title"/>
             <x-common.small text="landing-page.quote__small"/>
             <br>
-            <x-common.button class="btn__orange w-100" text="landing-page.enroll-now" />
+            <a target="_blank" href="https://wa.me/554196310071">
+                <x-common.button class="btn__orange w-100" text="landing-page.enroll-now" />
+            </a>
         </div>
     </div>
 </div>
