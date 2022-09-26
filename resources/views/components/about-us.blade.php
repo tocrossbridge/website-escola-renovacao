@@ -54,6 +54,8 @@
             <x-common.card-with-border icon="{{ asset('icons/civismo-traco.png') }}" title="landing-page.about-us__card-04__title" text="landing-page.about-us__card-04__text" />
         </div>
 
-        <x-common.button class="btn__orange" text="landing-page.secure-your-spot" />
+        <div class="text-center">
+            <x-common.button class="btn__orange" text="landing-page.secure-your-spot" />
+        </div>
     </div>
 </div>
