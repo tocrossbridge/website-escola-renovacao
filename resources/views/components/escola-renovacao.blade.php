@@ -4,7 +4,7 @@
         <iframe width="560" height="315" src="https://www.youtube.com/embed/r0_8IddTHIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
         <a target="_blank" href="https://wa.me/554196310071">
-            <x-common.button class="btn__green" text="landing-page.contact-whatsapp" />
+            <x-common.button-whats />
         </a>
     </div>
 </div>
