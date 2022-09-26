@@ -3,7 +3,7 @@
         <img class="testimony__avatar" src="{{ $image }}" alt=""/>
     </div>
     <div>
-        <p>{!! __($name) !!}</p>
+        <p class="testimony__name">{!! __($name) !!}</p>
         <p>{!! __($description) !!}</p>
     </div>
 </div>

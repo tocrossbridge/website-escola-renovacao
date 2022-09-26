@@ -147,6 +147,10 @@ h1, h2, h3, h4, h5, h6 {
 .testimony__avatar{
     max-width: 150px;
 }
+.testimony__name{
+    font-family: 'proxima-nova-bold';
+    font-size: 26px;
+}
 
 /* Quote */
 .quote__bg{
