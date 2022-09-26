@@ -2,11 +2,50 @@
     <div class="container">
         <x-common.title title="landing-page.about-us__title" />
         <p>{!! __('landing-page.about-us__sub-title') !!}</p>
+    </div>
 
-        <div class="my-5">
-            TODO
-            <!-- TODO: carousel -->
+    <div class="responsive custom-slider my-5">
+        <div>
+            <img class="icon--size-4" src="/images/carousel-about-us/ballet.png" alt="">
         </div>
+        <div>
+            <img class="icon--size-4" src="/images/carousel-about-us/karate.png" alt="">
+        </div>
+        <div>
+            <img class="icon--size-4" src="/images/carousel-about-us/xadrez.png" alt="">
+        </div>
+        <div>
+            <img class="icon--size-4" src="/images/carousel-about-us/tecnologia.png" alt="">
+        </div>
+
+        <div>
+            <img class="icon--size-4" src="/images/carousel-about-us/ingles.png" alt="">
+        </div>
+        <div>
+            <img class="icon--size-4" src="/images/carousel-about-us/danca.png" alt="">
+        </div>
+        <div>
+            <img class="icon--size-4" src="/images/carousel-about-us/educacao-infantil.png" alt="">
+        </div>
+        <div>
+            <img class="icon--size-4" src="/images/carousel-about-us/louvor-adoracao.png" alt="">
+        </div>
+
+        <div>
+            <img class="icon--size-4" src="/images/carousel-about-us/nutricao-orientada.png" alt="">
+        </div>
+        <div>
+            <img class="icon--size-4" src="/images/carousel-about-us/tecnologia.png" alt="">
+        </div>
+        <div>
+            <img class="icon--size-4" src="/images/carousel-about-us/ensino-fundamental.png" alt="">
+        </div>
+        <div>
+            <img class="icon--size-4" src="/images/carousel-about-us/louvor-adoracao.png" alt="">
+        </div>
+    </div>
+
+    <div class="container">
         <p>{!! __('landing-page.about-us__text') !!}</p>
         <div class="row d-flex justify-content-center my-4">
             <x-common.card-with-border icon="{{ asset('icons/ensino-traco.png') }}" title="landing-page.about-us__card-01__title" text="landing-page.about-us__card-01__text" />
