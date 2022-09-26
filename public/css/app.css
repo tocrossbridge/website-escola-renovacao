@@ -30,6 +30,9 @@ h1, h2, h3, h4, h5, h6 {
     border: 1px solid white;
     border-radius: 12px;
 }
+button{
+    padding: .375rem 3rem!important;
+}
 .btn--outlined{
     border: 1px solid #ffffff!important;
     background-color: transparent;
@@ -39,11 +42,11 @@ h1, h2, h3, h4, h5, h6 {
 .btn--outlined:hover{
     background-color: #933300;
 }
-.btn__orange{
+.btn--orange{
     background-color: #FF5B00;
     color: #ffffff;
 }
-.btn__orange:hover{
+.btn--orange:hover{
     background-color: #ff8746;
     color: #ffffff;
 }

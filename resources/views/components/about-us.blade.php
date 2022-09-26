@@ -55,7 +55,7 @@
         </div>
 
         <div class="text-center">
-            <x-common.button class="btn__orange" text="landing-page.secure-your-spot" />
+            <x-common.button class="btn--orange" text="landing-page.secure-your-spot" />
         </div>
     </div>
 </div>
