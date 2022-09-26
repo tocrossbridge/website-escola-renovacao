@@ -148,6 +148,7 @@
             settings: {
               slidesToShow: 1,
               slidesToScroll: 1
+              infinite: true,
             }
           },
           {
@@ -155,6 +156,7 @@
             settings: {
               slidesToShow: 1,
               slidesToScroll: 1
+              infinite: true,
             }
           }
           // You can unslick at a given breakpoint now by adding:
