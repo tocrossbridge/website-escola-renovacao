@@ -21,6 +21,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* General */
+.card__icon{
+    height: 80px;
+    width: auto;
+}
 .mx--150{ max-width: 150px; }
 .border--white{
     border: 1px solid white;
