@@ -15,24 +15,24 @@
                 <div id="imgtext"></div>
             </div>
             <div class="col-12 col-md-6">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/01.jpg') }}" alt="Renovação" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/02.jpg') }}" alt="Renovação" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/03.jpg') }}" alt="Renovação" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/04.jpg') }}" alt="Renovação" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/05.jpg') }}" alt="Renovação" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/06.jpg') }}" alt="Renovação" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/07.jpg') }}" alt="Renovação" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/08.jpeg') }}" alt="Renovação" onclick="expandImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/01.jpg') }}" alt="Renovação" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/02.jpg') }}" alt="Renovação" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/03.jpg') }}" alt="Renovação" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/04.jpg') }}" alt="Renovação" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/05.jpg') }}" alt="Renovação" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/06.jpg') }}" alt="Renovação" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/07.jpg') }}" alt="Renovação" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-escola/08.jpeg') }}" alt="Renovação" onclick="expandThisImg(this);">
 
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/01.jpg') }}" alt="Renovação KIDS" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/02.jpg') }}" alt="Renovação KIDS" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/03.jpg') }}" alt="Renovação KIDS" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/04.jpg') }}" alt="Renovação KIDS" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/05.jpg') }}" alt="Renovação KIDS" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/06.jpg') }}" alt="Renovação KIDS" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/07.jpg') }}" alt="Renovação KIDS" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/08.jpg') }}" alt="Renovação KIDS" onclick="expandImg(this);">
-                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/09.jpg') }}" alt="Renovação KIDS" onclick="expandImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/01.jpg') }}" alt="Renovação KIDS" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/02.jpg') }}" alt="Renovação KIDS" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/03.jpg') }}" alt="Renovação KIDS" onclick="expandThisImg(this);">
+                <!-- <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/04.jpg') }}" alt="Renovação KIDS" onclick="expandThisImg(this);"> -->
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/05.jpg') }}" alt="Renovação KIDS" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/06.jpg') }}" alt="Renovação KIDS" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/07.jpg') }}" alt="Renovação KIDS" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/08.jpg') }}" alt="Renovação KIDS" onclick="expandThisImg(this);">
+                <img class="photo-gallery__mini" src="{{ asset('images/estrutura-kids/09.jpg') }}" alt="Renovação KIDS" onclick="expandThisImg(this);">
             </div>
         </div>
     </div>

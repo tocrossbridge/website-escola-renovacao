@@ -166,17 +166,18 @@
 
     <!-- photo gallery -->
     <script>
-      function expandImg(imgs) {
-        // Get the expanded image
-        var expandImg = document.getElementById("expandedImg");
-        console.log(expandImg.length)
-        // Get the image text
+      var expandImg = document.getElementById("expandedImg");
+      var imgText = document.getElementById("imgtext");
+
+      if(!expandImg.length){
+        expandImg.src = "{{ asset('images/estrutura-escola/01.jpg') }}"
+        imgText.innerHTML = "Escola Renovação";
+      }
+
+      function expandThisImg(imgs) {
         var imgText = document.getElementById("imgtext");
-        // Use the same src in the expanded image as the image being clicked on from the grid
         expandImg.src = imgs.src;
-        // Use the value of the alt attribute of the clickable image as text inside the expanded image
         imgText.innerHTML = imgs.alt;
-        // Show the container element (hidden with CSS)
         expandImg.parentElement.style.display = "block";
       }
     </script>
