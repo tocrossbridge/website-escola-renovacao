@@ -1,4 +1,20 @@
+/* font */
+@font-face{
+    font-family: 'cocogoose';
+    src: url(../fonts/cocogoose.otf);
+}
+@font-face{
+    font-family: 'proxima-nova-bold';
+    src: url(../fonts/proxima-nova-condensed.otf);
+}
+@font-face{
+    font-family: 'proxima-nova-regular';
+    src: url(../fonts/proxima-nova-regular.otf);
+}
 
+html, body{
+    font-family: 'proxima-nova-regular'!important;
+}
 
 /* General */
 .mx--150{ max-width: 150px; }
