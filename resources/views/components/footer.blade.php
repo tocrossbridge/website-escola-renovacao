@@ -8,15 +8,21 @@
         </div>
 
         <div class="col-12 col-md py-2 py-md-0">
-          <h5>Matrículas</h5>
+          <a target="_blank" href="https://wa.me/554196310071" style="color: white">
+            <h5>Matrículas</h5>
+          </a>
         </div>
 
         <div class="col-12 col-md py-2 py-md-0">
-          <h5>Institucional</h5>
+          <a href="#institucional" style="color: white">
+            <h5>Institucional</h5>
+          </a>
         </div>
     
         <div class="col-12 col-md py-2 py-md-0">
-          <h5>Renovação KIDS</h5>
+          <a href="#renovacao-kids" style="color: white">
+            <h5>Renovação KIDS</h5>
+          </a>
           <ul class="nav flex-column">
             <li class="nav-item mb-2">
                 <a href="#" class="nav-link p-0 text-muted">
@@ -31,7 +37,9 @@
         </div>
 
         <div class="col-12 col-md py-2 py-md-0">
-          <h5>Escola Renovação</h5>
+          <a href="#renovacao-kids" style="color: white">
+            <h5>Escola Renovação</h5>
+          </a>
           <ul class="nav flex-column">
             <li class="nav-item mb-2">
                 <a href="#" class="nav-link p-0 text-muted">

@@ -9,11 +9,11 @@
             
             <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
                 <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
-                    <li class="nav-item active"><a class="nav-link mx-2" href="#">Institucional <span class="sr-only">(current)</span></a></li>
-                    <li class="nav-item"><a class="nav-link mx-2" href="#">Renovação</a></li>
-                    <li class="nav-item"><a class="nav-link mx-2" href="#">Renovação KIDS</a></li>
-                    <li class="nav-item"><a class="nav-link mx-2" href="#">Matrículas</a></li>
-                    <li class="nav-item"><a class="nav-link mx-2" href="#">Contato</a></li>
+                    <li class="nav-item active"><a class="nav-link mx-2" href="#institucional">Institucional <span class="sr-only">(current)</span></a></li>
+                    <li class="nav-item"><a class="nav-link mx-2" href="#renovacao">Renovação</a></li>
+                    <li class="nav-item"><a class="nav-link mx-2" href="#renovacao-kids">Renovação KIDS</a></li>
+                    <li class="nav-item"><a class="nav-link mx-2" target="_blank" href="https://wa.me/554196310071">Matrículas</a></li>
+                    <li class="nav-item"><a class="nav-link mx-2" target="_blank" href="https://wa.me/554196310071">Contato</a></li>
                 </ul>
 
                 <div class="my-2 my-lg-0">
