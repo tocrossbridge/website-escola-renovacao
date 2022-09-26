@@ -47,13 +47,17 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #ff8746;
     color: #ffffff;
 }
-.btn__green{
+.btn--green{
     background-color: #038300;
     color: #ffffff;
 }
-.btn__green:hover{
+.btn--green:hover{
     background-color: #1dbb1a;
     color: #ffffff;
+}
+.btn--whats{
+    max-width: 560px;
+    width: -webkit-fill-available;
 }
 .carousel-fotos{
     height: 400px;
@@ -68,6 +72,7 @@ h1, h2, h3, h4, h5, h6 {
     border-radius: 12px;
     background-color: rgba(255, 255, 255, 0.136);
 }
+.bg--orange{ background-color: #FF5B00;}
 
 /* slick */
 .slick-slider{ margin-bottom: 0!important; }
