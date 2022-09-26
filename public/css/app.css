@@ -22,6 +22,21 @@
     background-color: #1dbb1a;
     color: #ffffff;
 }
+.carousel-fotos{
+    height: 400px;
+    /* The height is 400 pixels */
+    width: 100%;
+    /* The width is the width of the web page */
+}
+.bg--light-yellow{
+    background-color: #FFFFE4;
+}
+
+/* slick */
+.slick-slider{ margin-bottom: 0!important; }
+.slick-dots{ bottom: 10px!important; }
+.slick-autoplay-toggle-button{ display: none; }
+.slick-dots li button .slick-dot-icon:before{ color: #FF5B00!important; }
 
 /* Navbar */
 
