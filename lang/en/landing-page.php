@@ -16,13 +16,13 @@ return [
     'about-us__sub-title' => 'Educação Infantil e Ensino Fundamental',
     'about-us__text' => 'A quase duas décadas sendo referência em educação em São José dos Pinhais, a Renovação conta com um posicionamento muito claro perante a sociedade. Conheça os 4 pilares que sustentam a instituição:',
     'about-us__card-01__title' => 'Ensino',
-    'about-us__card-01__text' => 'Compromisso com a excelência acadêmica',
+    'about-us__card-01__text' => 'Compromisso com a excelência acadêmica.',
     'about-us__card-02__title' => 'Fé',
-    'about-us__card-02__text' => 'Guiados pelos valores e princípios Cristãos',
+    'about-us__card-02__text' => 'Crianças desvendando segredos do coração de Deus.',
     'about-us__card-03__title' => 'Futurismo',
-    'about-us__card-03__text' => 'Construindo um futuro promissor com tecnologia e soluções inteligentes',
+    'about-us__card-03__text' => 'Ama a sua origem, constrói a sua nação.',
     'about-us__card-04__title' => 'Civismo',
-    'about-us__card-04__text' => 'Responsabilidade social e patriotismo',
+    'about-us__card-04__text' => 'Rumo ao que não existe!',
 
     // Testimony
     'testimony-01__name' => 'Eliana Vaghetti',
