@@ -6,6 +6,15 @@
     border: 1px solid white;
     border-radius: 12px;
 }
+.btn--outlined{
+    border: 1px solid #ffffff!important;
+    background-color: transparent;
+    border-radius: 12px;
+    color: #ffffff;
+}
+.btn--outlined:hover{
+    background-color: #933300;
+}
 .btn__orange{
     background-color: #FF5B00;
     color: #ffffff;
