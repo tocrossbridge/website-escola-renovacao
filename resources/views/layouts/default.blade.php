@@ -170,7 +170,7 @@
       var imgText = document.getElementById("imgtext");
 
       if(!expandImg.length){
-        expandImg.src = "{{ asset('images/estrutura-escola/01.jpg') }}"
+        expandImg.src = "{{ asset('images/estrutura-escola/01.png') }}"
         imgText.innerHTML = "Escola Renovação";
       }
 
