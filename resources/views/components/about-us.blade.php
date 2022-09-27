@@ -56,7 +56,9 @@
             </div>
     
             <div class="text-center">
-                <x-common.button class="btn--orange" text="landing-page.secure-your-spot" />
+                <a target="_blank" href="https://wa.me/554196310071">
+                    <x-common.button class="btn--orange" text="landing-page.secure-your-spot" />
+                </a>
             </div>
         </div>
     </div>
