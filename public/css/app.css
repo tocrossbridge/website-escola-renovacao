@@ -79,10 +79,8 @@ button{
     width: -webkit-fill-available;
 }
 .carousel-fotos{
-    height: 400px;
-    /* The height is 400 pixels */
+    max-height: 400px;
     width: 100%;
-    /* The width is the width of the web page */
 }
 .bg--light-yellow{
     background-color: #FFFFE4;
