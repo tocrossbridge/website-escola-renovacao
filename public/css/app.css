@@ -16,6 +16,10 @@ html, body{
     font-family: 'proxima-nova-regular'!important;
     overflow-x: hidden;
 }
+.hold-everybody{
+    max-width: 1900px;
+    margin: auto;
+}
 h1, h2, h3, h4, h5, h6 {
     font-family: 'cocogoose'!important;
 }
@@ -29,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     overflow: hidden;
     width: 100%;
-    padding-top: 56.25%;
+    padding-top: 60%;
     margin: auto;
     max-width: 500px;
 }
@@ -39,8 +43,9 @@ h1, h2, h3, h4, h5, h6 {
     left: 0;
     bottom: 0;
     right: 0;
-    width: 100%;
-    height: 100%;
+    width: -webkit-fill-available;
+    height: -webkit-fill-available;
+    max-height: 400px;
 }
 .card__icon{
     height: 80px;
@@ -92,6 +97,7 @@ button{ padding: .375rem 5rem!important; }
     width: auto;
     margin: auto;
 }
+.bg--green{ background-color: #00815E; }
 .bg--orange{ background-color: #FF5B00;}
 .bg--light-yellow{ background-color: #FFFFE4; }
 .bg--transparent{
@@ -203,20 +209,19 @@ button{ padding: .375rem 5rem!important; }
 
 /* Responsive */
 @media screen and (min-width: 900px){
+    .container-iframe { padding-top: 30%; }
     .intro__bg{
         background-image: url('../images/intro-harpia.png');
         background-repeat: no-repeat;
         background-position: left;
     }
     .escola-renovacao__bg{
-        height: 90vh;
         background-image: url('../images/teenager.png');
         background-repeat: no-repeat;
         background-position: left;
         background-size: contain;
     }
     .escola-renovacao-kids__bg{
-        height: 80vh;
         background-image: url('../images/kid.png');
         background-repeat: no-repeat;
         background-position: right;
