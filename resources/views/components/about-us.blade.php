@@ -6,42 +6,42 @@
 
     <div class="responsive custom-slider my-5">
         <div>
-            <img src="/images/carousel-about-us/ballet.png" alt="">
+            <img class="m-auto" src="/images/carousel-about-us/ballet.png" alt="">
         </div>
         <div>
-            <img src="/images/carousel-about-us/karate.png" alt="">
+            <img class="m-auto" src="/images/carousel-about-us/karate.png" alt="">
         </div>
         <div>
-            <img src="/images/carousel-about-us/xadrez.png" alt="">
+            <img class="m-auto" src="/images/carousel-about-us/xadrez.png" alt="">
         </div>
         <div>
-            <img src="/images/carousel-about-us/tecnologia.png" alt="">
-        </div>
-
-        <div>
-            <img src="/images/carousel-about-us/ingles.png" alt="">
-        </div>
-        <div>
-            <img src="/images/carousel-about-us/danca.png" alt="">
-        </div>
-        <div>
-            <img src="/images/carousel-about-us/educacao-infantil.png" alt="">
-        </div>
-        <div>
-            <img src="/images/carousel-about-us/louvor-adoracao.png" alt="">
+            <img class="m-auto" src="/images/carousel-about-us/tecnologia.png" alt="">
         </div>
 
         <div>
-            <img src="/images/carousel-about-us/nutricao-orientada.png" alt="">
+            <img class="m-auto" src="/images/carousel-about-us/ingles.png" alt="">
         </div>
         <div>
-            <img src="/images/carousel-about-us/tecnologia.png" alt="">
+            <img class="m-auto" src="/images/carousel-about-us/danca.png" alt="">
         </div>
         <div>
-            <img src="/images/carousel-about-us/ensino-fundamental.png" alt="">
+            <img class="m-auto" src="/images/carousel-about-us/educacao-infantil.png" alt="">
         </div>
         <div>
-            <img src="/images/carousel-about-us/louvor-adoracao.png" alt="">
+            <img class="m-auto" src="/images/carousel-about-us/louvor-adoracao.png" alt="">
+        </div>
+
+        <div>
+            <img class="m-auto" src="/images/carousel-about-us/nutricao-orientada.png" alt="">
+        </div>
+        <div>
+            <img class="m-auto" src="/images/carousel-about-us/tecnologia.png" alt="">
+        </div>
+        <div>
+            <img class="m-auto" src="/images/carousel-about-us/ensino-fundamental.png" alt="">
+        </div>
+        <div>
+            <img class="m-auto" src="/images/carousel-about-us/louvor-adoracao.png" alt="">
         </div>
     </div>
 
