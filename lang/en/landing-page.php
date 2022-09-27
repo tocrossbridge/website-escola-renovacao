@@ -20,9 +20,9 @@ return [
     'about-us__card-02__title' => 'Fé',
     'about-us__card-02__text' => 'Crianças desvendando segredos do coração de Deus.',
     'about-us__card-03__title' => 'Futurismo',
-    'about-us__card-03__text' => 'Ama a sua origem, constrói a sua nação.',
+    'about-us__card-03__text' => 'Rumo ao que não existe!',
     'about-us__card-04__title' => 'Civismo',
-    'about-us__card-04__text' => 'Rumo ao que não existe!',
+    'about-us__card-04__text' => 'Ama a sua origem, constrói a sua nação.',
 
     // Testimony
     'testimony-01__name' => 'Eliana Vaghetti',
