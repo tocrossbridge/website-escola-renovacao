@@ -37,6 +37,9 @@ return [
     'testimony-04__name' => 'Eduarda do Prado (Ex Aluna)',
     'testimony-04__description' => 'A Escola Renovação teve um papel fundamental em minha jornada. Foi ali que iniciaram sonhos que pareciam distantes e impossíveis, mas que eram nutridos todos os dias com ensino de qualidade, incentivos, paciência e carinho.',
 
+    // Photo Gallery
+    'photo-gallery__title' => 'Oferecemos uma estrutura preparada para formar com excelência',
+
     // Quote
     'quote__title' => '“Para cada 1 dólar investido em uma criança, a sociedade ganhará 9”',
     'quote__small' => 'James Heckman, economista americano<br>ganhador do prêmio Nobel de Economia do ano 2000',

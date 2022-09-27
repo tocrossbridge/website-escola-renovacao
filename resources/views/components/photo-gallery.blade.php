@@ -5,7 +5,7 @@
                 <img class="photo-gallery__title__decoration" src="{{ asset('icons/sol.png') }}" alt="">
             </div>
             <div class="col-12 col-md-6 my-auto">
-                <x-common.title title="Oferecemos uma estrutura preparada<br/>para formar com excelência" />
+                <x-common.title title="landing-page.photo-gallery__title" />
             </div>
         </div>
 
