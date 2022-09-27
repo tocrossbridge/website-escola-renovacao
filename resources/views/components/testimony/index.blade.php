@@ -1,5 +1,5 @@
-<div class="testimony__bg py-5">
-    <div class="container py-5">
+<div class="testimony__bg">
+    <div class="container">
         <x-common.title class="text-center pb-5" title="Buscamos fortalecer laços de amizade,<br>construindo uma comunidade de valor!"/>
         <div class="row">
             <x-testimony.testimony image="{{ asset('images/testimony-eliana.png') }}" name="landing-page.testimony-01__name" description="landing-page.testimony-01__description" />

@@ -21,11 +21,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /* General */
+.renovacao__title{
+    font-size: 1.6rem;
+    font-size: clamp(1rem, 10vw, 1.5rem)
+}
 .container-iframe {
     position: relative;
     overflow: hidden;
     width: 100%;
-    padding-top: 56.25%; 
+    padding-top: 56.25%;
+    margin: auto;
+    max-width: 500px;
 }
 .responsive-iframe {
     position: absolute;
@@ -41,13 +47,16 @@ h1, h2, h3, h4, h5, h6 {
     width: auto;
 }
 .mx--150{ max-width: 150px; }
-.border--white{
+.card--border-white{
+    width: 200px;
+    padding: 2%;
+    margin: 2%;
+    text-align: center;
+    flex-direction: column;
     border: 1px solid white;
     border-radius: 12px;
 }
-button{
-    padding: .375rem 3rem!important;
-}
+button{ padding: .375rem 3rem!important; }
 .btn--outlined{
     padding: .375rem .75rem!important;
     border: 1px solid #ffffff!important;
@@ -75,21 +84,19 @@ button{
     color: #ffffff;
 }
 .btn--whats{
-    max-width: 560px;
     width: -webkit-fill-available;
+    max-width: 500px;
 }
 .carousel-fotos{
     max-height: 400px;
     width: 100%;
 }
-.bg--light-yellow{
-    background-color: #FFFFE4;
-}
+.bg--orange{ background-color: #FF5B00;}
+.bg--light-yellow{ background-color: #FFFFE4; }
 .bg--transparent{
     border-radius: 12px;
     background-color: rgba(255, 255, 255, 0.136);
 }
-.bg--orange{ background-color: #FF5B00;}
 
 /* slick */
 .slick-slider{ margin-bottom: 0!important; }
@@ -101,7 +108,7 @@ button{
 
 /* Intro */
 .intro__bg{
-    height: 90vh;
+    height: 80vh;
     background-color: #FF5B00;
     color: #ffffff;
 }
@@ -112,8 +119,13 @@ button{
 
 /* About us */
 .about-us__bg{
+    padding: 8% 0 8% 0;
     background-color: #0042BC;
     color: #ffffff;
+}
+.about-us__carousel-img{
+    max-width: 230px;
+    margin: 0 10px
 }
 
 /* Renovação KIDS */
@@ -135,6 +147,7 @@ button{
 }
 .photo-gallery__title__decoration{
     max-width: 180px;
+    max-width: clamp(8rem, 10vw, 3rem);
 }
 .photo-gallery__mini{
     margin: 1%;
@@ -163,6 +176,7 @@ button{
 
 /* Testimony */
 .testimony__bg{
+    padding: 8% 0 8% 0;
     background-color: #00815E;
     background-image: url('../images/testimony-bg.png');
     background-size: cover;
@@ -201,13 +215,13 @@ button{
         background-size: contain;
     }
     .escola-renovacao-kids__bg{
-        height: 90vh;
+        height: 80vh;
         background-image: url('../images/kid.png');
         background-repeat: no-repeat;
         background-position: right;
         background-size: contain;
     }
-    .testimony__avatar{ max-width: 150px; }
+    .testimony__avatar{ max-width: 180px; }
     .flex-direction__desktop{
         flex-direction: row-reverse;
     }

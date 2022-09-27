@@ -1,1 +1,1 @@
-<h3 {{ $attributes->merge(["class"=>""]) }}>{!! __($title) !!}</h3>
+<h3 {{ $attributes->merge(["class"=>"renovacao__title "]) }}>{!! __($title) !!}</h3>

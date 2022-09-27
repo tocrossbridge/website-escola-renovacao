@@ -1,4 +1,4 @@
-<div class="about-us__bg py-5">
+<div class="about-us__bg">
     <div class="container">
         <x-common.title title="landing-page.about-us__title" />
         <p>{!! __('landing-page.about-us__sub-title') !!}</p>
@@ -6,42 +6,42 @@
 
     <div class="responsive custom-slider my-5">
         <div>
-            <img class="m-auto" src="/images/carousel-about-us/ballet.png" alt="">
+            <img class="m-auto about-us__carousel-img" src="/images/carousel-about-us/ballet.png" alt="">
         </div>
         <div>
-            <img class="m-auto" src="/images/carousel-about-us/karate.png" alt="">
+            <img class="m-auto about-us__carousel-img" src="/images/carousel-about-us/karate.png" alt="">
         </div>
         <div>
-            <img class="m-auto" src="/images/carousel-about-us/xadrez.png" alt="">
+            <img class="m-auto about-us__carousel-img" src="/images/carousel-about-us/xadrez.png" alt="">
         </div>
         <div>
-            <img class="m-auto" src="/images/carousel-about-us/tecnologia.png" alt="">
-        </div>
-
-        <div>
-            <img class="m-auto" src="/images/carousel-about-us/ingles.png" alt="">
-        </div>
-        <div>
-            <img class="m-auto" src="/images/carousel-about-us/danca.png" alt="">
-        </div>
-        <div>
-            <img class="m-auto" src="/images/carousel-about-us/educacao-infantil.png" alt="">
-        </div>
-        <div>
-            <img class="m-auto" src="/images/carousel-about-us/louvor-adoracao.png" alt="">
+            <img class="m-auto about-us__carousel-img" src="/images/carousel-about-us/tecnologia.png" alt="">
         </div>
 
         <div>
-            <img class="m-auto" src="/images/carousel-about-us/nutricao-orientada.png" alt="">
+            <img class="m-auto about-us__carousel-img" src="/images/carousel-about-us/ingles.png" alt="">
         </div>
         <div>
-            <img class="m-auto" src="/images/carousel-about-us/tecnologia.png" alt="">
+            <img class="m-auto about-us__carousel-img" src="/images/carousel-about-us/danca.png" alt="">
         </div>
         <div>
-            <img class="m-auto" src="/images/carousel-about-us/ensino-fundamental.png" alt="">
+            <img class="m-auto about-us__carousel-img" src="/images/carousel-about-us/educacao-infantil.png" alt="">
         </div>
         <div>
-            <img class="m-auto" src="/images/carousel-about-us/louvor-adoracao.png" alt="">
+            <img class="m-auto about-us__carousel-img" src="/images/carousel-about-us/louvor-adoracao.png" alt="">
+        </div>
+
+        <div>
+            <img class="m-auto about-us__carousel-img" src="/images/carousel-about-us/nutricao-orientada.png" alt="">
+        </div>
+        <div>
+            <img class="m-auto about-us__carousel-img" src="/images/carousel-about-us/tecnologia.png" alt="">
+        </div>
+        <div>
+            <img class="m-auto about-us__carousel-img" src="/images/carousel-about-us/ensino-fundamental.png" alt="">
+        </div>
+        <div>
+            <img class="m-auto about-us__carousel-img" src="/images/carousel-about-us/louvor-adoracao.png" alt="">
         </div>
     </div>
 
