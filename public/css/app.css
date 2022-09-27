@@ -171,9 +171,7 @@ button{
     background-position: center;
     background-repeat: no-repeat;
 }
-.testimony__avatar{
-    max-width: 150px;
-}
+.testimony__avatar{ max-width: 100%; }
 .testimony__name{
     font-family: 'proxima-nova-bold';
     font-size: 26px;
@@ -211,6 +209,7 @@ button{
         background-position: right;
         background-size: contain;
     }
+    .testimony__avatar{ max-width: 150px; }
     .flex-direction__desktop{
         flex-direction: row-reverse;
     }
