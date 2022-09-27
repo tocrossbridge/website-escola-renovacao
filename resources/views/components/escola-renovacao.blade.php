@@ -2,7 +2,7 @@
     <div class="col-12 col-md-6 text-center">
         <x-common.title class="my-4" title="landing-page.renovacao-school" />
         <div class="container-iframe">
-            <iframe class="responsive-iframe" width="560" height="315" src="https://www.youtube.com/embed/r0_8IddTHIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe class="responsive-iframe" src="https://www.youtube.com/embed/r0_8IddTHIc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
         <br>
         <a target="_blank" href="https://wa.me/554196310071">
