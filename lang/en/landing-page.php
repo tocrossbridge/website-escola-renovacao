@@ -44,9 +44,13 @@ return [
     'quote__title' => '“Para cada 1 dólar investido em uma criança, a sociedade ganhará 9”',
     'quote__small' => 'James Heckman, economista americano<br>ganhador do prêmio Nobel de Economia do ano 2000',
 
-    // General
+    // Renovação
     'renovacao-school' => 'Escola Renovação',
+    'renovacao-school__sub' => 'Educação Fundamental (2º ao 9º ano)',
     'renovacao-kids' => 'Renovação KIDS',
+    'renovacao-kids__sub' => 'Educação Infantil (Baby ao 1º ano)',
+
+    // General
     'enroll-now' => 'Matricule-se já!',
     'secure-your-spot' => 'Garanta sua vaga!',
     'contact-whatsapp' => 'Chamar no WhatsApp!'
