@@ -89,7 +89,8 @@ button{ padding: .375rem 5rem!important; }
 }
 .carousel-fotos{
     max-height: 400px;
-    width: 100%;
+    width: auto;
+    margin: auto;
 }
 .bg--orange{ background-color: #FF5B00;}
 .bg--light-yellow{ background-color: #FFFFE4; }

@@ -1,4 +1,4 @@
-<div class="m-0 row bg--light-yellow">
+<div class="m-0 row bg--orange">
     <div class="p-0 col-12 col-md-6">
         <div class="responsive-renovacao custom-slider">
             <div>
