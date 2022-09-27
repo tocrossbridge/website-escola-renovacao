@@ -142,10 +142,6 @@ button{ padding: .375rem 3rem!important; }
 
 /* Galeria de fotos */
 .photo-gallery__bg{
-    background-image: url(../images/harpia.png);
-    background-repeat: no-repeat;
-    background-position: right;
-    background-size: contain;
     background-color: #FF5B00;
     color: #ffffff;
 }
@@ -221,6 +217,12 @@ button{ padding: .375rem 3rem!important; }
     .escola-renovacao-kids__bg{
         height: 80vh;
         background-image: url('../images/kid.png');
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: contain;
+    }
+    .photo-gallery__bg{
+        background-image: url(../images/harpia.png);
         background-repeat: no-repeat;
         background-position: right;
         background-size: contain;
