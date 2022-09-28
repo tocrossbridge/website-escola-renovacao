@@ -106,6 +106,7 @@ button{ padding: .375rem 5rem!important; }
 }
 
 /* slick */
+.slick-prev {z-index:3!important}
 .slick-slider{ margin-bottom: 0!important; }
 .slick-dots{ bottom: 10px!important; }
 .slick-autoplay-toggle-button{ display: none; }
