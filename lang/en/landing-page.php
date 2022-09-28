@@ -46,7 +46,7 @@ return [
 
     // Renovação
     'renovacao-school' => 'Escola Renovação',
-    'renovacao-school__sub' => 'Educação Fundamental (2º ao 9º ano)',
+    'renovacao-school__sub' => 'Ensino Fundamental (2º ao 9º ano)',
     'renovacao-kids' => 'Renovação KIDS',
     'renovacao-kids__sub' => 'Educação Infantil (Baby ao 1º ano)',
 
