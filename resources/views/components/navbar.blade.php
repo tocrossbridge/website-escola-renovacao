@@ -1,4 +1,4 @@
-<div class="w-100" style="position: absolute;">
+<div class="w-100" style="position: absolute;z-index: 2;">
     <div class="container" style="position: relative">
         <nav class="navbar navbar-expand-lg navbar-dark">
         
