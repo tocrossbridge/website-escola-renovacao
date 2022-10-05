@@ -25,13 +25,13 @@
           </a>
           <ul class="nav flex-column">
             <li class="nav-item mb-2">
-                <a href="#" class="nav-link p-0 text-muted">
-                Rua Tereza Nester, 113
+              <a href="#" class="nav-link p-0 text-muted">
+                Rua Altevir de Lara, 705
                 <br>
                 Bairro Afonso Pena
                 <br>
                 São José dos Pinhas
-                </a>
+              </a>
             </li>
           </ul>
         </div>
@@ -42,13 +42,13 @@
           </a>
           <ul class="nav flex-column">
             <li class="nav-item mb-2">
-                <a href="#" class="nav-link p-0 text-muted">
-                Rua Altevir de Lara, 705
+              <a href="#" class="nav-link p-0 text-muted">
+                Rua Tereza Nester, 113
                 <br>
                 Bairro Afonso Pena
                 <br>
                 São José dos Pinhas
-                </a>
+              </a>
             </li>
           </ul>
         </div>
